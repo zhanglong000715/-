@@ -1,0 +1,6 @@
+# print('hello ',end='')
+# print('world',end='')
+# print('helo world')
+# print('itheima best')
+# print('helo\tworld')
+# print('itheima\tbest')
